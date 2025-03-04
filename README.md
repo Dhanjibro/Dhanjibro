@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhanjibro
+- 👋 Hi, I’m @Dhyaneshkumar
 - 👀 I’m interested in ...developing hardware & AI for waste sorting 
 - 🌱 I’m currently learning ...arduino & protius for all usefull equipment.
 - 💞️ I’m looking to collaborate on ...any freind
